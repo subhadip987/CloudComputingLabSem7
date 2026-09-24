@@ -1,6 +1,6 @@
 Mininet Network Topology Experiments (Experiment-3)
 
-👤 Author: Aman Srivastava 🎓 Bachelor of Technology (B.Tech) in Computer Science and Engineering 🏫 Adamas University
+👤 Author: Subhadip Mandal 🎓 Bachelor of Technology (B.Tech) in Computer Science and Engineering 🏫 Adamas University
 
 📌 Objective
 To create and configure a simple network topology using an open-source network virtualization tool (Mininet) and verify communication between the virtual network nodes.
